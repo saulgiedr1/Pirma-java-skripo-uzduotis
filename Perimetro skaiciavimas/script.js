@@ -2,6 +2,7 @@ window.onload = function() {
 
     let ilgis;
     let plotis;
+    let perimetras;
 
     ilgis=15;
     plotis=25;

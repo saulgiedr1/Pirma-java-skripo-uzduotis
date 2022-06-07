@@ -3,6 +3,7 @@ window.onload = function() {
     let ilgis;
     let plotis;
     let aukstis;
+    let turis;
 
     ilgis= 10;
     plotis= 45;

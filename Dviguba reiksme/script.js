@@ -2,6 +2,9 @@ window.onload=function() {
 
 let skaicius;
 let skaicius1;
+let dvigubas;
+let dvigubas1;
+let dvigubas2;
 
  skaicius= 25;
  skaicius1=60;
