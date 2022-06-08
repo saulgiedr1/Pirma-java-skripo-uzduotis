@@ -1,7 +1,6 @@
 window.onload= function() {
 
-    let spindulys;
-    let PI;
+    let spindulys;    
     let plotas;
     
 
